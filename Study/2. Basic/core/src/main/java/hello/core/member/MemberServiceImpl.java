@@ -6,7 +6,11 @@ public class MemberServiceImpl implements MemberService{
 //    그냥 인터페이스만 있으면 NullPointException이 발생
 //    구현 객체를 선택해줘야 됨
 
-    private final MemberRepository memberRepository = new MemoryMemberRepository();
+    public MemberServiceImpl(MemberRepository memberRepository) {
+        this.memberRepository = memberRepository;
+    }
+
+    private final MemberRepository memberRepository;
 
     @Override
     public void join(Member member) {
