@@ -29,6 +29,6 @@ public class OrderServiceTest {
         Order order = orderService.createOrder(memberId, "BREAD", 6000);
 
         //SOUT로 검증하는 것이 아니라 Assertions로 검증
-        Assertions.assertThat(order.getDiscountPrice()).isEqualTo(1000);
+        Assertions.assertThat(order.getDiscountPrice()).isEqualTo(600);
     }
 }
