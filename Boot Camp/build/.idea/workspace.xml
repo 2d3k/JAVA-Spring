@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddb765e6-53f7-4124-bdfb-bc6575d8a79b" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/sql/ddl.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/Practice1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/SpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/aop/TimeTraceAop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/controller/MemberForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/repository/JdbcMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/repository/JdbcTemplateMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/repository/JpaMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/repository/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/repository/MemoryMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/repository/SpringDataJpaMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/java/Spring/practice1/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/resources/static/hello-static.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/resources/templates/hello-template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/resources/templates/members/createMemberForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/main/resources/templates/members/memberList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/test/java/Spring/practice1/Practice1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/test/java/Spring/practice1/repository/MemoryMemberRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/test/java/Spring/practice1/service/MemberServiceIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/1. Intro/practice1/src/test/java/Spring/practice1/service/MemberServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/main/java/hello/core/CoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/main/java/hello/core/MemberApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/main/java/hello/core/member/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/main/java/hello/core/member/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/main/java/hello/core/member/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/main/java/hello/core/member/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/main/java/hello/core/member/MemberServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/main/java/hello/core/member/MemoryMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/test/java/hello/core/CoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/2. Basic/core/src/test/java/hello/core/member/MemberServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group Study/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2EpRhqs9RbhvtdTBT7YrCHysbW1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/32150944/Desktop/good day/Spring/Boot Camp/build/be-template-build",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\32150944\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="ddb765e6-53f7-4124-bdfb-bc6575d8a79b" name="변경" comment="" />
+      <created>1663290663096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663290663096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
